@@ -96,7 +96,9 @@ io.on('connection', (socket) => {
 ```bash
 npm install sharedb ws express
 ```
-
+```
+npm install sharedb ws @teamwork/websocket-json-stream
+```
 ### File Structure
 ```
 ├── editor-server.js
